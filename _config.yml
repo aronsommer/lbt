@@ -3,7 +3,7 @@ description: Suchen Sie einen Texter in der Schweiz? Ich bin eine Freie Texterin
 author: Lea Bosshart
 
 # remote_theme: pmarsceill/just-the-docs
-remote_theme: aronsommer/just-the-docs
+remote_theme: leabosshart/just-the-docs
 color_scheme: nil
 search_enabled: false
 
