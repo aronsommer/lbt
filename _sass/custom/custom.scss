@@ -12,6 +12,19 @@
 white-space: normal !important;
 }
 
+
+//////
+.side-bar a {
+background: #e8f0fe;
+-webkit-box-align: center;
+box-align: center;
+align-items: center;
+display: flex;
+border-radius: 0 50px 50px 0;
+padding: 10px 16px 10px 24px;
+position: relative;
+}
+
 ////
 //// Typography
 ////
